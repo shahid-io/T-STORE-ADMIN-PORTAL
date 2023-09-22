@@ -13,12 +13,10 @@ const Dashboard = () => {
                     <li>
                         <a href="#" className="block hover:bg-gray-700 py-2 px-4 rounded">Users</a>
                     </li>
-                    {/* Add more navigation items here */}
                 </ul>
             </div>
 
             <div className="w-4/5 p-4">
-                {/* Content for the selected section */}
             </div>
         </div>
     );
